@@ -1,0 +1,16 @@
+h3{
+	font-size:24px;
+	font-weight:bold;
+}
+
+.brief{
+	font-style:italic;
+	text-align:justify;
+}
+
+.details{
+	background:light shade;
+	line-height:1.8;
+}
+
+

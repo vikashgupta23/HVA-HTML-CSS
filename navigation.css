@@ -1,0 +1,10 @@
+nav{
+	background-color:skyblue;
+	padding:10px;
+}
+
+nav::before{
+    content: "vikash";
+    color: red;
+    margin: 4px;
+}
