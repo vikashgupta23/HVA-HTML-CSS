@@ -9,12 +9,15 @@ h1{
 	font-size:36px;
 	font-weight:bold;
 	text-decoration:underline;
+	text-align:center;
+	
 }
 
 h2{
 	font-size:28px;
 	font-weight:bold;
 	text-decoration:underline;
+	text-align:left;
 }
 
 p{
@@ -24,4 +27,9 @@ p{
 
 blockquote{
 	font-style:italic;
+}
+
+.post-content{
+	background:light shade;
+	padding:16px;
 }
